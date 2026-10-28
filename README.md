@@ -100,9 +100,9 @@ This experience helps me understand business operations, customer requirements, 
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: Add your LinkedIn profile URL here.
-- 🌐 Portfolio: Add your portfolio website URL here.
-- 📧 Email: Add your professional email address here.
+- 💼 LinkedIn: https://www.linkedin.com/in/prem-panchal-702230258/.
+- 🌐 Portfolio: https://premdashboards.netlify.app/.
+- 📧 Email: prempanchal822@gmail.com.
 
 I'm open to learning opportunities, internships, collaborative projects, and entry-level opportunities in Data Analytics, Business Intelligence, and Data Science.
 
