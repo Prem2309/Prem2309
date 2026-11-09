@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="100%" height="130" fill="none">
+  <defs>
+    <linearGradient id="hudBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00f7ff" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#3b82f6" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#a855f7" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="hudCardBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#070c18" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0d1424" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect x="2" y="2" width="896" height="126" rx="10" fill="url(#hudCardBg)" stroke="url(#hudBorder)" stroke-width="1.2"/>
+
+  <!-- 4 Telemetry Columns -->
+  <!-- Col 1: Specialization -->
+  <g transform="translate(24, 20)">
+    <circle cx="6" cy="6" r="3" fill="#00f7ff"/>
+    <text x="16" y="9" fill="#00f7ff" font-family="Consolas, monospace" font-size="10" font-weight="bold" letter-spacing="1.5">DOMAIN SPECIALIZATION</text>
+    <text x="0" y="34" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold">Data Analytics &amp; ML</text>
+    <text x="0" y="54" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12">EDA • Forecasting • Predictive AI</text>
+    <text x="0" y="74" fill="#38bdf8" font-family="Consolas, monospace" font-size="11">[ Python • Scikit-Learn ]</text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="235" y1="20" x2="235" y2="110" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Col 2: Business Intelligence -->
+  <g transform="translate(255, 20)">
+    <circle cx="6" cy="6" r="3" fill="#38bdf8"/>
+    <text x="16" y="9" fill="#38bdf8" font-family="Consolas, monospace" font-size="10" font-weight="bold" letter-spacing="1.5">BUSINESS INTELLIGENCE</text>
+    <text x="0" y="34" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold">Power BI &amp; Analytics</text>
+    <text x="0" y="54" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12">DAX • KPI Models • Retail Insights</text>
+    <text x="0" y="74" fill="#818cf8" font-family="Consolas, monospace" font-size="11">[ Power BI • SQL • Excel ]</text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="465" y1="20" x2="465" y2="110" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Col 3: Academic Credentials -->
+  <g transform="translate(485, 20)">
+    <circle cx="6" cy="6" r="3" fill="#818cf8"/>
+    <text x="16" y="9" fill="#818cf8" font-family="Consolas, monospace" font-size="10" font-weight="bold" letter-spacing="1.5">ACADEMIC FOUNDATION</text>
+    <text x="0" y="34" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold">BCA in Data Science</text>
+    <text x="0" y="54" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12">Alliance University • 2024–2027</text>
+    <text x="0" y="74" fill="#a855f7" font-family="Consolas, monospace" font-size="11">[ Current CGPA: 7.67 / 10 ]</text>
+  </g>
+
+  <!-- Divider 3 -->
+  <line x1="685" y1="20" x2="685" y2="110" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Col 4: Commercial Acumen -->
+  <g transform="translate(705, 20)">
+    <circle cx="6" cy="6" r="3" fill="#a855f7"/>
+    <text x="16" y="9" fill="#a855f7" font-family="Consolas, monospace" font-size="10" font-weight="bold" letter-spacing="1.5">INDUSTRY EXPOSURE</text>
+    <text x="0" y="34" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="bold">Business &amp; Operations</text>
+    <text x="0" y="54" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="12">Unified Mentor • Om Chamunda</text>
+    <text x="0" y="74" fill="#00f7ff" font-family="Consolas, monospace" font-size="11">[ Real-World Case Studies ]</text>
+  </g>
+</svg>

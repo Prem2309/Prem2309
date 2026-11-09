@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 150" width="100%" height="150" fill="none">
+  <defs>
+    <linearGradient id="pgrad_BI_ANALYTICS_V3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.1"/>
+    </linearGradient>
+    <linearGradient id="pbg_BI_ANALYTICS_V3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#080d1a" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0b1326" stop-opacity="0.95"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect x="2" y="2" width="896" height="146" rx="10" fill="url(#pbg_BI_ANALYTICS_V3)" stroke="url(#pgrad_BI_ANALYTICS_V3)" stroke-width="1.2"/>
+  <rect x="2" y="2" width="4" height="146" rx="2" fill="#38bdf8"/>
+
+  <!-- Left: Content -->
+  <text x="24" y="30" fill="#38bdf8" font-family="Consolas, monospace" font-size="11" font-weight="bold" letter-spacing="2">// BI_ANALYTICS_V3</text>
+  <text x="24" y="60" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="bold">Retail Sales Intelligence & Executive BI Dashboards</text>
+  <text x="24" y="86" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">Star-schema relational model, dynamic DAX measures, and drill-through KPI intelligence.</text>
+
+  <!-- Tech Pills -->
+  
+        <rect x="24" y="112" width="74" height="22" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="61" y="127" text-anchor="middle" fill="#93c5fd" font-family="Consolas, monospace" font-size="11">Power BI</text>
+        
+        <rect x="108" y="112" width="39" height="22" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="127" y="127" text-anchor="middle" fill="#93c5fd" font-family="Consolas, monospace" font-size="11">SQL</text>
+        
+        <rect x="157" y="112" width="39" height="22" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="176" y="127" text-anchor="middle" fill="#93c5fd" font-family="Consolas, monospace" font-size="11">DAX</text>
+        
+        <rect x="206" y="112" width="123" height="22" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="267" y="127" text-anchor="middle" fill="#93c5fd" font-family="Consolas, monospace" font-size="11">Microsoft Excel</text>
+        
+        <rect x="339" y="112" width="109" height="22" rx="4" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+        <text x="393" y="127" text-anchor="middle" fill="#93c5fd" font-family="Consolas, monospace" font-size="11">KPI Reporting</text>
+        
+
+  <!-- Vertical Divider -->
+  <line x1="490" y1="20" x2="490" y2="130" stroke="#1e293b" stroke-width="1.2"/>
+
+  <!-- Right: Key Telemetry Metrics -->
+  
+        <g transform="translate(520, 40)">
+          <text x="0" y="0" fill="#64748b" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="bold" letter-spacing="1">DATA MODEL</text>
+          <text x="0" y="24" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="bold">Star-Schema</text>
+        </g>
+        
+        <g transform="translate(690, 40)">
+          <text x="0" y="0" fill="#64748b" font-family="'Segoe UI', sans-serif" font-size="10" font-weight="bold" letter-spacing="1">ANALYTICS</text>
+          <text x="0" y="24" fill="#38bdf8" font-family="'Segoe UI', sans-serif" font-size="16" font-weight="bold">DAX & YoY Growth</text>
+        </g>
+        
+</svg>

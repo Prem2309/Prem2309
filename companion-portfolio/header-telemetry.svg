@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" width="100%" height="70" fill="none">
+  <defs>
+    <linearGradient id="grad_telemetry" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="bgGrad_telemetry" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0a1020" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#0d1428" stop-opacity="0.95" />
+      <stop offset="100%" stop-color="#0a1020" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="896" height="66" rx="8" fill="url(#bgGrad_telemetry)" stroke="#a855f7" stroke-width="1" stroke-opacity="0.3"/>
+  <rect x="2" y="2" width="6" height="66" rx="3" fill="url(#grad_telemetry)"/>
+  <!-- Decorative Bracket -->
+  <path d="M880 12 L890 12 L890 22" stroke="#ec4899" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <path d="M890 48 L890 58 L880 58" stroke="#ec4899" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Tag -->
+  <text x="24" y="24" fill="#a855f7" font-family="Consolas, monospace" font-size="11" font-weight="bold" letter-spacing="2">// TELEMETRY</text>
+  <!-- Main Title -->
+  <text x="24" y="52" fill="#ffffff" font-family="'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="bold">SYSTEM TELEMETRY & GITHUB ACTIVITY</text>
+  <!-- Subtitle -->
+  <text x="860" y="44" text-anchor="end" fill="#94a3b8" font-family="'Segoe UI', Roboto, sans-serif" font-size="13">Verified Engineering Metrics & Continuous Development</text>
+</svg>
