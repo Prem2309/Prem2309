@@ -2,7 +2,7 @@
 
 <!-- CINEMATIC ANIMATED HERO HEADER -->
 <a href="https://github.com/Prem2309">
-  <img src="assets/hero-cinematic.gif" alt="Prem Rajesh Panchal - Cinematic Data Science & BI Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/hero-cinematic.gif" alt="Prem Rajesh Panchal - Cinematic Data Science & BI Banner" width="100%" />
 </a>
 
 <br/>
@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=070c18" alt="LinkedIn Profile"/>
   </a>
   &nbsp;
-  <a href="assets/Prem_Panchal_Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/Prem_Panchal_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CURRICULUM_VITAE-8b5cf6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=070c18" alt="Download Resume"/>
   </a>
   &nbsp;
@@ -31,17 +31,17 @@
 </p>
 
 <!-- HUD TELEMETRY OVERVIEW MATRIX -->
-<img src="assets/card-overview-metrics.svg" alt="Telemetry Metrics Overview" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/card-overview-metrics.png" alt="Telemetry Metrics Overview" width="100%" />
 
 <br/>
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 
 </div>
 
 <br/>
 
 <!-- SECTION 01: ARCHITECTURE & PHILOSOPHY -->
-<img src="assets/header-architecture.svg" alt="System Architecture Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/header-architecture.png" alt="System Architecture Header" width="100%" />
 
 <br/>
 
@@ -78,19 +78,33 @@ class QuantitativeDataScientist:
 - 🌐 **Live Ecosystem:** Interactive projects and live dashboard deployments available at **[premdashboards.netlify.app](https://premdashboards.netlify.app/)**.
 
 <br/>
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 <br/>
 
 <!-- SECTION 02: TECHNICAL ECOSYSTEM -->
-<img src="assets/header-tech_stack.svg" alt="Technical Ecosystem Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/header-tech_stack.png" alt="Technical Ecosystem Header" width="100%" />
 
 <br/>
 
 <div align="center">
-  <!-- Interactive Tech Icons Grid -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pandas,numpy,sklearn,mysql,mongodb,powerbi,git,github,vscode,java,html,css,js" alt="Tech Stack Ecosystem" />
-  </a>
+  <!-- Complete High-DPI Tech Ecosystem Ribbon (All logos verified & active) -->
+  <img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/tech-stack-ribbon.png" alt="Tech Stack Ecosystem Ribbon" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Official Verified Technology Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
 <br/>
@@ -110,17 +124,17 @@ class QuantitativeDataScientist:
 </details>
 
 <br/>
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 <br/>
 
 <!-- SECTION 03: FEATURED REPOSITORIES -->
-<img src="assets/header-projects.svg" alt="Project Showcase Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/header-projects.png" alt="Project Showcase Header" width="100%" />
 
 <br/>
 
 ### 01 // QUANTITATIVE FINANCE & MACHINE LEARNING
 <a href="https://github.com/Prem2309/Stock_Portfolio_Management_System">
-  <img src="assets/card-project-stock.svg" alt="Stock Portfolio Management System Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/card-project-stock.png" alt="Stock Portfolio Management System Card" width="100%" />
 </a>
 
 <details open>
@@ -137,7 +151,7 @@ class QuantitativeDataScientist:
 
 ### 02 // NATURAL LANGUAGE PROCESSING & CONVERSATIONAL AI
 <a href="https://github.com/Prem2309/SELF-CTRL-AI-">
-  <img src="assets/card-project-selfctrl.svg" alt="SELF-CTRL-AI Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/card-project-selfctrl.png" alt="SELF-CTRL-AI Card" width="100%" />
 </a>
 
 <details open>
@@ -154,7 +168,7 @@ class QuantitativeDataScientist:
 
 ### 03 // EXECUTIVE BUSINESS INTELLIGENCE & DATA MODELING
 <a href="https://premdashboards.netlify.app/">
-  <img src="assets/card-project-retail.svg" alt="Retail Sales Intelligence Card" width="100%" />
+  <img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/card-project-retail.png" alt="Retail Sales Intelligence Card" width="100%" />
 </a>
 
 <details open>
@@ -183,11 +197,11 @@ class QuantitativeDataScientist:
 </details>
 
 <br/>
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 <br/>
 
 <!-- SECTION 04: PROFESSIONAL EXPERIENCE -->
-<img src="assets/header-experience.svg" alt="Professional Experience Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/header-experience.png" alt="Professional Experience Header" width="100%" />
 
 <br/>
 
@@ -228,16 +242,16 @@ class QuantitativeDataScientist:
 </details>
 
 <br/>
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 <br/>
 
 <!-- SECTION 05: GITHUB TELEMETRY -->
-<img src="assets/header-telemetry.svg" alt="System Telemetry Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/header-telemetry.png" alt="System Telemetry Header" width="100%" />
 
 <br/>
 
 <!-- CUSTOM VERIFIED TELEMETRY CARD -->
-<img src="assets/card-github-telemetry.svg" alt="Verified GitHub Telemetry & Language Distribution" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/card-github-telemetry.png" alt="Verified GitHub Telemetry & Language Distribution" width="100%" />
 
 <br/><br/>
 
@@ -254,11 +268,11 @@ class QuantitativeDataScientist:
 </div>
 
 <br/>
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 <br/>
 
 <!-- SECTION 06: CONNECT -->
-<img src="assets/header-connect.svg" alt="Connect & Collaborate Header" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/header-connect.png" alt="Connect & Collaborate Header" width="100%" />
 
 <br/>
 
@@ -282,7 +296,7 @@ class QuantitativeDataScientist:
     <img src="https://img.shields.io/badge/Email-prempanchal822@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="assets/Prem_Panchal_Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/Prem_Panchal_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Verified_Resume-PDF-8b5cf6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
   </a>
 </p>
@@ -293,7 +307,7 @@ class QuantitativeDataScientist:
 [ CONNECTION PROTOCOL ESTABLISHED // BENGALURU, INDIA // ALLIANCE UNIVERSITY ]
 ```
 
-<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+<img src="https://raw.githubusercontent.com/Prem2309/Prem2309/main/assets/divider-cyber.png" alt="Divider" width="100%" />
 
 <p align="center">
   <sub>Designed &amp; engineered with algorithmic rigor, cyberpunk aesthetics &amp; verified data science telemetry. &copy; 2026 Prem Rajesh Panchal.</sub>
