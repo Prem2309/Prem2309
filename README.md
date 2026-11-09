@@ -191,6 +191,11 @@ class QuantitativeDataScientist:
 
 <br/>
 
+```
+╔═══════════════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                 ENTERPRISE ENGAGEMENTS & BUSINESS IMPACT                                      ║
+╚═══════════════════════════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
 #### 🏢 Business Analyst Intern &bull; Unified Mentor Pvt. Ltd.
 *June 2025 &ndash; July 2025*
@@ -283,3 +288,15 @@ class QuantitativeDataScientist:
 </p>
 
 <br/>
+
+```
+[ CONNECTION PROTOCOL ESTABLISHED // BENGALURU, INDIA // ALLIANCE UNIVERSITY ]
+```
+
+<img src="assets/divider-cyber.svg" alt="Divider" width="100%" />
+
+<p align="center">
+  <sub>Designed &amp; engineered with algorithmic rigor, cyberpunk aesthetics &amp; verified data science telemetry. &copy; 2026 Prem Rajesh Panchal.</sub>
+</p>
+
+</div>
